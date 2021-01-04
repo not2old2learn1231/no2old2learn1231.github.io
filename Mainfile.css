@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0;}
+ul{}
+ul li {display:inline-block;
+List style: 0;}
+ul li {test direction: 0;
+font-size: 14px;
+font-family: arial;
+padding: 0 20px;
+color: black; 
+}
+body {
+	background-image: url("https://wallpapercave.com/wp/stAgN2w.jpg");
+}
+table{ border: 1 px solid black }
+table,td{ border: 1px solid blue; }
+
+footer{
+	position: fixed;
+	left:0px;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	background-color: #B404AE;
+}
